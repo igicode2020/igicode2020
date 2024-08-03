@@ -1,1 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igicode2020)](https://github.com/anuraghazra/github-readme-stats)
+Will be working on my README soon
+
+Personally working on a ton of proejcts right now and too busy but at the same time too fascinated to ignore
+the README APIs for github profiles.
